@@ -1,4 +1,4 @@
-const User = require('./userRoutes');
-const Thought = require('./thoughtRoutes');
+const User = require('./User');
+const Thought = require('./Thought');
 
 module.exports = { User, Thought };
